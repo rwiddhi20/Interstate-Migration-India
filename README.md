@@ -1,7 +1,13 @@
 # Between and Within: Income, Labour Markets, and Inter-State Migration in India
 
 ## Overview
-This notebook replicates the empirical analysis from my Master's internal assessment paper submitted to the Department of Economics, University of Calcutta (2022). The analysis was implemented in Python in April 2026 as part of building a reproducible research portfolio.
+
+This repository accompanies my master's dissertation, *Between and Within: Income, Labour Markets, and Inter-State Migration in India*, submitted to the Department of Economics, University of Calcutta (2022). 
+The analysis was independently replicated in Python in April 2026 as part of building a reproducible research portfolio.
+
+📄 **Research Paper:** `Kundu_Between_and_Within_Income_Labour_Markets_and_Inter_State_Migration_in_India.pdf`
+
+The repository contains the code, processed data, and documentation required to reproduce the empirical analysis presented in the paper.
 
 ## Research Question
 Do the determinants of inter-state migration in India differ between states and within states over time?
